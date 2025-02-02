@@ -1,0 +1,6 @@
+@Ramos.CatalogSystem.Api_HostAddress = http://localhost:5032
+
+GET {{Ramos.CatalogSystem.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
